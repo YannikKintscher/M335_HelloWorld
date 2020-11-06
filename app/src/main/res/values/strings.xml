@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">HelloWorld</string>
     <string name="activity_padding">activity_padding</string>
+    <string name="textview">Dein Text: </string>
+    <string name="reminder">Gib etwas ein</string>
+    <string name="button">Senden</string>
+    <string name="button_text1">Text Input zu View</string>
 </resources>
