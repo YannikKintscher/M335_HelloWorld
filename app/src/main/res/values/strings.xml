@@ -5,4 +5,5 @@
     <string name="reminder">Gib etwas ein</string>
     <string name="button">Senden</string>
     <string name="button_text1">Text Input zu View</string>
+    <string name="buttontext3">Löschen</string>
 </resources>
